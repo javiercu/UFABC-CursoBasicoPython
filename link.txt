@@ -1,0 +1,1 @@
+https://nbviewer.jupyter.org/github/gestaltrevision/python_for_visres/blob/master/Part1/Part1_Intro_to_Python.ipynb#Code-advancement-0
